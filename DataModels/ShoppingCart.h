@@ -8,7 +8,6 @@
 #include "iostream"
 #include <vector>
 #include "Product.h"
-#include "../Services/ShoppingCartService.h"
 #include "Stock.h"
 
 class ShoppingCart {

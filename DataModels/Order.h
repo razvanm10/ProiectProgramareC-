@@ -21,7 +21,7 @@ public:
     }
 
     string getOrder() {
-        return
+        return "Products: \n" + shoppingCartProducts.productsAsString() + "\n" + "Price: " + to_string(shoppingCartProducts.totalPrice());
     }
 
 };

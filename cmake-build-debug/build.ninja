@@ -97,12 +97,6 @@ build CMakeFiles/ProiectProgramare.dir/Helpers/ProductEnum.cpp.o: CXX_COMPILER__
   OBJECT_DIR = CMakeFiles/ProiectProgramare.dir
   OBJECT_FILE_DIR = CMakeFiles/ProiectProgramare.dir/Helpers
 
-build CMakeFiles/ProiectProgramare.dir/Services/ShoppingCartService.cpp.o: CXX_COMPILER__ProiectProgramare_Debug /Users/razvan/CLionProjects/ProiectProgramare/Services/ShoppingCartService.cpp || cmake_object_order_depends_target_ProiectProgramare
-  DEP_FILE = CMakeFiles/ProiectProgramare.dir/Services/ShoppingCartService.cpp.o.d
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -std=gnu++14
-  OBJECT_DIR = CMakeFiles/ProiectProgramare.dir
-  OBJECT_FILE_DIR = CMakeFiles/ProiectProgramare.dir/Services
-
 build CMakeFiles/ProiectProgramare.dir/Services/FileService.cpp.o: CXX_COMPILER__ProiectProgramare_Debug /Users/razvan/CLionProjects/ProiectProgramare/Services/FileService.cpp || cmake_object_order_depends_target_ProiectProgramare
   DEP_FILE = CMakeFiles/ProiectProgramare.dir/Services/FileService.cpp.o.d
   FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -std=gnu++14
@@ -123,7 +117,7 @@ build CMakeFiles/ProiectProgramare.dir/DataModels/Bid.cpp.o: CXX_COMPILER__Proie
 #############################################
 # Link the executable ProiectProgramare
 
-build ProiectProgramare: CXX_EXECUTABLE_LINKER__ProiectProgramare_Debug CMakeFiles/ProiectProgramare.dir/main.cpp.o CMakeFiles/ProiectProgramare.dir/DataModels/Product.cpp.o CMakeFiles/ProiectProgramare.dir/DataModels/ShoppingCart.cpp.o CMakeFiles/ProiectProgramare.dir/DataModels/Order.cpp.o CMakeFiles/ProiectProgramare.dir/DataModels/Stock.cpp.o CMakeFiles/ProiectProgramare.dir/Helpers/CurrentTime.cpp.o CMakeFiles/ProiectProgramare.dir/DataModels/BaseClass.cpp.o CMakeFiles/ProiectProgramare.dir/Helpers/ProductEnum.cpp.o CMakeFiles/ProiectProgramare.dir/Services/ShoppingCartService.cpp.o CMakeFiles/ProiectProgramare.dir/Services/FileService.cpp.o CMakeFiles/ProiectProgramare.dir/DataModels/Bid.cpp.o
+build ProiectProgramare: CXX_EXECUTABLE_LINKER__ProiectProgramare_Debug CMakeFiles/ProiectProgramare.dir/main.cpp.o CMakeFiles/ProiectProgramare.dir/DataModels/Product.cpp.o CMakeFiles/ProiectProgramare.dir/DataModels/ShoppingCart.cpp.o CMakeFiles/ProiectProgramare.dir/DataModels/Order.cpp.o CMakeFiles/ProiectProgramare.dir/DataModels/Stock.cpp.o CMakeFiles/ProiectProgramare.dir/Helpers/CurrentTime.cpp.o CMakeFiles/ProiectProgramare.dir/DataModels/BaseClass.cpp.o CMakeFiles/ProiectProgramare.dir/Helpers/ProductEnum.cpp.o CMakeFiles/ProiectProgramare.dir/Services/FileService.cpp.o CMakeFiles/ProiectProgramare.dir/DataModels/Bid.cpp.o
   FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk
   OBJECT_DIR = CMakeFiles/ProiectProgramare.dir
   POST_BUILD = :
