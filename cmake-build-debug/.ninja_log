@@ -1,0 +1,16 @@
+# ninja log v5
+1	116	1653842779453001826	CMakeFiles/ProiectProgramare.dir/Helpers/IdGenerator.cpp.o	ac2f854882459e04
+2	316	1653839080741329225	CMakeFiles/ProiectProgramare.dir/Helpers/CurrentTime.cpp.o	5ca3a55ac8c7b8bc
+1	254	1653859416881413243	CMakeFiles/ProiectProgramare.dir/DataModels/Product.cpp.o	88aa8ac5307f7dba
+1	30	1653848783664019183	CMakeFiles/ProiectProgramare.dir/Helpers/UniqueIdProvider.cpp.o	a1bd5ee50e3bfc7c
+1	527	1654038222430872304	CMakeFiles/ProiectProgramare.dir/DataModels/ShoppingCart.cpp.o	afdd06e9aeccdfb5
+2	122	1653840891811058145	CMakeFiles/ProiectProgramare.dir/Helpers/ProductEnum.cpp.o	e7817ec04306daf0
+2	117	1653841195236462962	CMakeFiles/ProiectProgramare.dir/DataModels/BaseClass.cpp.o	f303cd5dde7a309a
+1	19	1653845579599444716	CMakeFiles/ProiectProgramare.dir/Helpers/IdProvider.cpp.o	f826a54aa1269773
+1	593	1654038222488766343	CMakeFiles/ProiectProgramare.dir/main.cpp.o	95e69a8c6ec2913b
+0	51	1654039112289240645	build.ninja	50a5e17217d27fbf
+2	532	1654038222434197491	CMakeFiles/ProiectProgramare.dir/DataModels/Stock.cpp.o	207b09567cd0b022
+2	544	1654038222447195003	CMakeFiles/ProiectProgramare.dir/Services/FileService.cpp.o	c45e351304b85a37
+593	717	1654038222624894110	ProiectProgramare	9e61d99e35620a0c
+2	223	1653859416854172548	CMakeFiles/ProiectProgramare.dir/DataModels/Order.cpp.o	c978c9aa212e49c8
+2	230	1653859416862019000	CMakeFiles/ProiectProgramare.dir/Services/ShoppingCartService.cpp.o	efe71377e46ea37
